@@ -96,8 +96,13 @@ function hy(n1,n2){
     let sum = n1+n2;
     return(sum);
 }
+function hyt(n1,n2){
+    let sum = n1*n2;
+    return(sum);
+}
 
 hy(12,30);
+hyt(20,27);
 
 render();
 
