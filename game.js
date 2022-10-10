@@ -92,7 +92,12 @@ function fake(){
       console.log(v);
   }  
 }
+function hy(n1,n2){
+    let sum = n1+n2;
+    return(sum);
+}
 
+hy(12,30);
 
 render();
 
