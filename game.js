@@ -86,5 +86,13 @@ function render(){
 
 }
 
+function fake(){
+ let v =10;
+  if(v=000){
+      console.log(v);
+  }  
+}
+
+
 render();
 
